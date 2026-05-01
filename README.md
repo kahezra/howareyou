@@ -1,4 +1,4 @@
-# My First Project on GitHub ![GitHub](https://shields.io) :octocat:
+# My First Project on GitHub  :git: :octocat:
 
 You can test my project if you like :)
 
