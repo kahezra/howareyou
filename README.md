@@ -1,4 +1,4 @@
-# My First Project on GitHub <img src="https://githubassets.com" width="25" height="25">
+# My First Project on GitHub ![GitHub](https://shields.io) :octocat:
 
 You can test my project if you like :)
 
